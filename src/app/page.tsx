@@ -1,6 +1,6 @@
 import CategoryComponent from "./components/categoryItem/categoryComponent";
 
-export default function Home() {
+function HomePage() {
   const categories = [
     {
       id: 1,
@@ -48,3 +48,5 @@ export default function Home() {
     </div>
   );
 }
+
+export default HomePage;
