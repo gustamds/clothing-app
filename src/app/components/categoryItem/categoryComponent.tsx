@@ -15,6 +15,7 @@ type CategoryProps = {
     const lastTwoDivs = isLastTwo ? "w-[49%]" : "w-[32%]";
   
     return (
+      //remove <main> and <video> after
       <main>
         <div
           className={`flex ${lastTwoDivs} justify-center items-center border border-black cursor-pointer`}
@@ -30,6 +31,22 @@ type CategoryProps = {
               <span>Test Scrape</span>
               <video width="640" height="360" controls>
                 <source src="https://www.youtube.com/embed/EV0KeqvIwjU?si=F6GLN-U4fL8wQEnU" type="video/mp4" />
+                Seu navegador não suporta o elemento de vídeo.
+              </video>
+              <video width="640" height="360" controls>
+                <source src="https://www.youtube.com/embed/fneCWdB8d04?si=x2YMRlFQ6M9mZVzS" type="video/mp4" />
+                Seu navegador não suporta o elemento de vídeo.
+              </video>
+              <video width="640" height="360" controls>
+                <source src="https://www.youtube.com/embed/xslPDHq-yog?si=QxxmlXDyG76O8R0V" type="video/mp4" />
+                Seu navegador não suporta o elemento de vídeo.
+              </video>
+              <video width="640" height="360" controls>
+                <source src="https://www.youtube.com/embed/d9zfHdDSR3c?si=GMCXKEQ5VcrQ-dOx" type="video/mp4" />
+                Seu navegador não suporta o elemento de vídeo.
+              </video>
+              <video width="640" height="360" controls>
+                <source src="https://www.youtube.com/embed/jM7ap2md3HQ?si=GFnAGsdnpTWaS8p4" type="video/mp4" />
                 Seu navegador não suporta o elemento de vídeo.
               </video>
             </div>
