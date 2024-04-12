@@ -28,6 +28,10 @@ type CategoryProps = {
               <h2 className="font-bold text-2xl text-[#4a4a4a]">{title}</h2>
               <p className="font-light text-base">{subtitle}</p>
               <span>Test Scrape</span>
+              <video width="640" height="360" controls>
+                <source src="https://www.youtube.com/embed/EV0KeqvIwjU?si=F6GLN-U4fL8wQEnU" type="video/mp4" />
+                Seu navegador não suporta o elemento de vídeo.
+              </video>
             </div>
           </div>
         </div>
