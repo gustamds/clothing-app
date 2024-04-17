@@ -89,6 +89,139 @@ function HomePage() {
         </video>
         <h6>Titulo6</h6>
       </div>
+
+      <div>
+        <div>
+          <div>
+            <div>
+              <div>
+                <div>
+                  <img
+                    src="https://d32gktdq0wbhql.cloudfront.net/img/blocks-sample/2.jpg"
+                    alt="Titolo Descrizione corta 120"
+                  />
+                  <div></div>
+                </div>
+              </div>
+              <a href="https://www.twitch.tv/">
+                <div>
+                  <p>Produto 1</p>
+                  <p>Descrição Produto 1</p>
+                  <p>110&nbsp;€</p>
+                </div>
+              </a>
+            </div>
+            <div>
+              <div>
+                <div>
+                  <img
+                    src="https://d32gktdq0wbhql.cloudfront.net/img/blocks-sample/2.jpg"
+                    alt="Titolo Descrizione corta 120"
+                  />
+                  <div></div>
+                </div>
+              </div>
+              <a href="">
+                <div>
+                  <p>Produto 2</p>
+                  <p>Descrição Produto 2</p>
+                  <p>120&nbsp;€</p>
+                </div>
+              </a>
+            </div>
+            <div>
+              <div>
+                <div>
+                  <img
+                    src="https://d32gktdq0wbhql.cloudfront.net/img/blocks-sample/2.jpg"
+                    alt="Titolo Descrizione corta 120"
+                  />
+                  <div></div>
+                </div>
+              </div>
+              <a href="https://twitter.com/home">
+                <div>
+                  <p>Produto 3</p>
+                  <p>Descrição Produto 3</p>
+                  <p>130&nbsp;€</p>
+                </div>
+              </a>
+            </div>
+            <div>
+              <div>
+                <div>
+                  <img
+                    src="https://d32gktdq0wbhql.cloudfront.net/img/blocks-sample/2.jpg"
+                    alt="Titolo Descrizione corta 120"
+                  />
+                  <div></div>
+                </div>
+              </div>
+              <a href="">
+                <div>
+                  <p>Produto 4</p>
+                  <p>Descrição Produto 4</p>
+                  <p>140&nbsp;€</p>
+                </div>
+              </a>
+            </div>
+            <div>
+              <div>
+                <div>
+                  <img
+                    src="https://d32gktdq0wbhql.cloudfront.net/img/blocks-sample/2.jpg"
+                    alt="Titolo Descrizione corta 120"
+                  />
+                  <div></div>
+                </div>
+              </div>
+              <a href="https://www.youtube.com/">
+                <div>
+                  <p>Produto 5</p>
+                  <p>Descrição Produto 5</p>
+                  <p>150&nbsp;€</p>
+                </div>
+              </a>
+            </div>
+            <div>
+              <div>
+                <div>
+                  <img
+                    src="https://d32gktdq0wbhql.cloudfront.net/img/blocks-sample/2.jpg"
+                    alt="Titolo Descrizione corta 120"
+                  />
+                  <div></div>
+                </div>
+              </div>
+              <a href="">
+                <div>
+                  <p>Produto 6</p>
+                  <p>Descrição Produto 6</p>
+                  <p>160&nbsp;€</p>
+                </div>
+              </a>
+            </div>
+            <div>
+              <div>
+                <div>
+                  <img
+                    src="https://d32gktdq0wbhql.cloudfront.net/img/blocks-sample/2.jpg"
+                    alt="Titolo Descrizione corta 120"
+                  />
+                  <div></div>
+                </div>
+              </div>
+              <a href="https://aquazzura.skin-headless.com/">
+                <div>
+                  <p>Produto 7</p>
+                  <p>Descrição Produto 7</p>
+                  <p>170&nbsp;€</p>
+                </div>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
     </main>
   );
 }
